@@ -47,7 +47,7 @@ letters_list = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQSTUVWXYZ1234567890!@#
 
 
 for i in bruteforce_list(letters_list, PASS_SIZE):
-    t = threading.Thread(target=attempt, args=(i))
+    t = threading.Thread(target=attempt, args=(i,))
     t.start()
     time.sleep(0.3)
 
