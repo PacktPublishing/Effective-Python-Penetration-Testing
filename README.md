@@ -1,9 +1,9 @@
-# Effective-Python-Penetration-Testing
+# Effective-Python-Penetration-Working-Testing
 By Packt Publishing
 
-This is the code repository for [Effective Python Penetration Testing](https://www.packtpub.com/networking-and-servers/effective-python-penetration-testing?utm_source=github&utm_medium=repository), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
+This is the code repository for best and effective [Effective Python Penetration Testing](https://www.packtpub.com/networking-and-servers/effective-python-penetration-testing?utm_source=github&utm_medium=repository), published by [Packt Publishing](https://www.packtpub.com/). It contains all the required files to run the code.
 
-This book is ideal for those who are comfortable with Python or a similar language and need no help with basic programming concepts but want to understand the basics of penetration testing and the problems pentesters face.
+This book is ideal for those who are comfortable with Python or a similar language and need no help with basic programming concepts but want to understand the basics of penetration testing and the problems pentesters face. This book is designed in such a way that anybody who knows any programming language can understand the basics as well as the concepts of Penetration.
 
 Related Books
 
